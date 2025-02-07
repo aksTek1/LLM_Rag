@@ -1,0 +1,8 @@
+Use the following pieces of context to answer the question comprehensively.
+If you cannot find the answer in the context, say that you don't know.
+
+Context: {context}
+
+Question: {question}
+
+Detailed Answer:

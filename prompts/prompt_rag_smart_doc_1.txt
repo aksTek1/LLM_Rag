@@ -1,0 +1,7 @@
+Provide a concise answer based on the following context:
+
+Context: {context}
+
+Question: {question}
+
+Answer:

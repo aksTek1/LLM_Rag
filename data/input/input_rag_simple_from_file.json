@@ -1,0 +1,27 @@
+{
+    "documents": [
+      {
+        "content": [
+          {
+            "High Priority": "This is a high priority secret that needs to be kept secret all the time in the lama vault. The only lama vault in the world is located in the air sealed chamber in Mumtaz's tomb in the Taj Mahal. "
+          },
+          {
+            "Low Priority": "This low priority secret can be disregarded and does not need to be preserved in the lama vault."
+          },
+          {
+            "Medium Priority": "This is a medium priority secret that may be kept secret in a lama vault. However, it can be exposed to third party if its encrypted."
+          }
+        ],
+        "metadata": {
+          "source": "document1.txt",
+          "author": "AKS AKS"
+        }
+      }
+    ],
+    "queries": [
+      "Summarize",
+      "How would you describe a high priority item? ",
+      "Can you access this item?",
+      "Who is the author?"
+    ]
+}

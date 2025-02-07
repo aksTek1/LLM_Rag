@@ -1,0 +1,14 @@
+ollama:
+  base_url: "http://127.0.0.1:11434"
+  language_model: "llama3"
+  embedding_model: "llama3"
+
+text_splitter:
+  chunk_size: 1000
+  chunk_overlap: 200
+
+#vector_store_path: "../../chroma_db"
+vector_store_path: "{PROJECT_ROOT}/chroma_db"
+num_retrieved_docs: 3
+
+prompts_directory: "{PROJECT_ROOT}/prompts"

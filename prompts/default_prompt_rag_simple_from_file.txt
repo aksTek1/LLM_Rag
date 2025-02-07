@@ -1,0 +1,8 @@
+You are a helpful assistant analyzing documents. Please help answer questions about the following document.
+
+Document content:
+{document}
+
+Question: {question}
+
+Please provide a clear and concise answer based on the document content above:

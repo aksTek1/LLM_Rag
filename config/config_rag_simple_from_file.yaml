@@ -1,0 +1,6 @@
+ollama:
+  #base_url: "http://localhost:11434"
+  #base_url: "http://127.0.0.1:11434/api/chat" Retuns 404 not found
+  base_url: "http://127.0.0.1:11434"
+  model_name: "llama3"
+prompts_directory: "{PROJECT_ROOT}/prompts"

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Summarize the article in less than 200 words?",
+    "answer": "The article investigates racial segregation in private schools, specifically Amite School Center (ASC) in Louisiana. The school's superintendent claims that racial segregation is not their goal, but concerns arise when only one Black player is seen on the school team. The article highlights the lack of diversity among school board members and staff, with only one Black trustee and no apparent Black representation among principals or officials collecting admission fees. Despite repeated attempts to contact the board members, none responded. This raises questions about the school's commitment to inclusivity and whether it is inadvertently perpetuating segregation."
+  },
+  {
+    "query": "Which states are included in the study and what's the country where these states are in?",
+    "answer": "According to the context, the states included in the study are not explicitly mentioned. However, it is stated that a tool was made to help find out how segregated local private schools are in the country. This implies that the study focuses on the United States, specifically exploring racial segregation in private schools across various states within the country."
+  },
+  {
+    "query": "Why do white people who never sent their kids to the public schools keep challenging Black candidates who have?",
+    "answer": "The context suggests that white school trustees in this district are more likely to challenge Black candidates for office, despite having not themselves exposed their children to the same public school system."
+  }
+]

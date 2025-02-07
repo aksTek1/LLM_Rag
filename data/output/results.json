@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Summarize",
+    "document": "document1.txt",
+    "answer": "Based on the document content, here's a summary:\n\nThe document categorizes secrets into three priorities: High Priority, Low Priority, and Medium Priority. The High Priority secret requires secrecy at all times and must be stored in the Lama Vault located in Mumtaz's tomb in the Taj Mahal. The Low Priority secret can be disregarded and does not need to be preserved in the Lama Vault. The Medium Priority secret may be kept secret if encrypted, but can be exposed to third parties otherwise."
+  },
+  {
+    "query": "How would you describe a high priority item? ",
+    "document": "document1.txt",
+    "answer": "According to the document, a high-priority item is a \"secret that needs to be kept secret all the time in the lama vault.\" This suggests that high-priority items are extremely sensitive and require utmost confidentiality, with specific storage requirements (i.e., the lama vault) and location (i.e., Mumtaz's tomb in the Taj Mahal)."
+  },
+  {
+    "query": "Can you access this item?",
+    "document": "document1.txt",
+    "answer": "I cannot access or read the contents of the \"High Priority\" section as it is labeled as a \"secret that needs to be kept secret all the time in the lama vault.\""
+  },
+  {
+    "query": "Who is the author?",
+    "document": "document1.txt",
+    "answer": "Based on the document content, there is no explicit indication of who the author is. The document appears to be a collection of secrets with varying priorities, but it does not include any information about the person or entity that created this document. Therefore, I cannot determine the author's identity based on the provided information."
+  }
+]

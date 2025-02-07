@@ -1,0 +1,9 @@
+{
+    "url": "https://www.propublica.org/article/segregation-academies-public-schools-amite-county-mississippi",
+    "queries": [
+        "Summarize the article in less than 200 words?",
+        "Which states are included in the study and what's the country where these states are in?",
+        "Why do white people who never sent their kids to the public schools keep challenging Black candidates who have?"
+    ],
+    "prompt": "summary_prompt_rag_web_doc"
+}
